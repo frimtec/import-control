@@ -4,7 +4,7 @@
 
     <groupId>com.github.frimtec</groupId>
     <artifactId>import-control</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
 
     <name>import-control</name>
     <packaging>pom</packaging>
@@ -40,7 +40,7 @@
         <developerConnection>scm:git:git@github.com:frimtec/import-control.git
         </developerConnection>
         <url>${project.url}</url>
-        <tag>1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
