@@ -27,7 +27,7 @@ package org.organisation.project.module;
 Install the plugin [IDEA-Import-Control](https://github.com/frimtec/idea-import-control-plugin) to add a new code inspection rule that marks all undesirable imports as errors.  
 
 ## Add dependency
-To use import-control in your project you can add the dependency from [maven central](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control) to your software project management tool:
+To use import-control in your project you can add the dependency from [maven central](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api) to your software project management tool:
 In Maven just add the following dependency to your pom.xml:
 ```xml
       <dependency>
