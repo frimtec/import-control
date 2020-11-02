@@ -24,7 +24,7 @@ package org.organisation.project.module;
 
 ## IDE-Integration
 ### IntelliJ-IDEA
-Install the plugin [IDEA-Import-Control](https://github.com/frimtec/idea-import-control-plugin) to add a new code inspection rule that marks all undesirable imports as errors.  
+Install the plugin [IDEA Import Control](https://plugins.jetbrains.com/plugin/15308-import-control) to add a new code inspection rule that marks all undesirable imports as errors.  
 
 ## Add dependency
 To use import-control in your project you can add the dependency from [maven central](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api) to your software project management tool:
