@@ -1,8 +1,9 @@
 # Import Control
-[![Build Status](https://travis-ci.com/frimtec/import-control.svg?branch=main)](https://travis-ci.com/frimtec/import-control) 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api) 
-[![Coverage Status](https://coveralls.io/repos/github/frimtec/import-control/badge.svg?branch=main)](https://coveralls.io/github/frimtec/import-control?branch=main)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api)
+[![codecov](https://codecov.io/gh/frimtec/import-control/branch/main/graph/badge.svg?token=XPU22BU7VN)](https://codecov.io/gh/frimtec/import-control)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[![Build](https://github.com/frimtec/import-control/workflows/Build/badge.svg)](https://github.com/frimtec/import-control/actions?query=workflow%3ABuild)
 
 Import control annotation to use for lightweight module system in Java.
 
