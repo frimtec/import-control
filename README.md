@@ -4,6 +4,7 @@
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![Build](https://github.com/frimtec/import-control/workflows/Build/badge.svg)](https://github.com/frimtec/import-control/actions?query=workflow%3ABuild)
+[![Deploy release](https://github.com/frimtec/import-control/workflows/Deploy%20release/badge.svg)](https://github.com/frimtec/import-control/actions?query=workflow%3A%22Deploy+release%22)
 
 Import control annotation to use for lightweight module system in Java.
 
