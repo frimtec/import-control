@@ -23,7 +23,7 @@
     </licenses>
     <issueManagement>
         <system>github</system>
-        <url>${project.url}/issues</url>
+        <url>https://github.com/frimtec/import-control/issues</url>
     </issueManagement>
 
     <developers>
@@ -39,7 +39,7 @@
         <connection>scm:git:git@github.com:frimtec/import-control.git</connection>
         <developerConnection>scm:git:git@github.com:frimtec/import-control.git
         </developerConnection>
-        <url>${project.url}</url>
+        <url>https://github.com/frimtec/import-control</url>
         <tag>HEAD</tag>
     </scm>
 
