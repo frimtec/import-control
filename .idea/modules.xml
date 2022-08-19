@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/import-control.iml" filepath="$PROJECT_DIR$/import-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-control-api/import-control-api.iml" filepath="$PROJECT_DIR$/import-control-api/import-control-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-control-demo/import-control-demo.iml" filepath="$PROJECT_DIR$/import-control-demo/import-control-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-control-demo/import-control-demo-module-a/import-control-demo-module-a.iml" filepath="$PROJECT_DIR$/import-control-demo/import-control-demo-module-a/import-control-demo-module-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-control-demo/import-control-demo-module-b/import-control-demo-module-b.iml" filepath="$PROJECT_DIR$/import-control-demo/import-control-demo-module-b/import-control-demo-module-b.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="import-control-demo-module-b" />
+        <module name="import-control-demo-module-a" />
+        <module name="import-control-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="import-control" target="1.8" />
+      <module name="import-control-api" target="1.8" />
+      <module name="import-control-demo" target="1.8" />
+      <module name="import-control-demo-module-a" target="1.8" />
+      <module name="import-control-demo-module-b" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
