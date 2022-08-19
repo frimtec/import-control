@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="import-control-demo-module-b" />
-        <module name="import-control-demo-module-a" />
         <module name="import-control-api" />
+        <module name="import-control-demo-module-a" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
