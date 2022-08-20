@@ -1,0 +1,10 @@
+*
+!.gitignore
+!inspectionProfiles
+!dictionaries
+!modules.xml
+!encodings.xml
+!compiler.xml
+!vcs.xml
+!jarRepositories.xml
+!misc.xml

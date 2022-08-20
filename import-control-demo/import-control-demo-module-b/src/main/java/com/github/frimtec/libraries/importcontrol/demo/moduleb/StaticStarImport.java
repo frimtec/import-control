@@ -5,6 +5,7 @@ import static com.github.frimtec.libraries.importcontrol.demo.modulea.ClassA.*;
 // import nok, not
 import static com.github.frimtec.libraries.importcontrol.demo.modulea.internal.InternalClassA.*;
 
+@SuppressWarnings("unused")
 public class StaticStarImport {
 
     public String method1() {

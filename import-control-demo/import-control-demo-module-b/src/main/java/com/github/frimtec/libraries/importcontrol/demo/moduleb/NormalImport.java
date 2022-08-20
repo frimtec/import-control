@@ -5,6 +5,7 @@ import com.github.frimtec.libraries.importcontrol.demo.modulea.ClassA;
 // Import nok, not exported
 import com.github.frimtec.libraries.importcontrol.demo.modulea.internal.InternalClassA;
 
+@SuppressWarnings({"FieldCanBeLocal", "unused"})
 public class NormalImport {
     private final ClassA classA;
     private final InternalClassA internalClassA;

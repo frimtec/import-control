@@ -10,6 +10,7 @@ import static com.github.frimtec.libraries.importcontrol.demo.modulea.internal.I
 // import nok, not exported
 import static com.github.frimtec.libraries.importcontrol.demo.modulea.internal.InternalClassA.CONST_IA;
 
+@SuppressWarnings("unused")
 public class StaticImport {
 
     public String method1() {

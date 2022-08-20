@@ -1,4 +1,4 @@
-# Import Control
+# Import Control [![setup automated][gitpod-shield]][gitpod]
 [![Maven Central][maven-central-shield]][maven-central]
 [![License][license-shield]][license]
 
@@ -12,7 +12,7 @@ Import control annotation to use for lightweight module system in Java.
 
 ## Motivation
 Java previous to JDK 9 has a visibility concept that does not support modules very well.
-If modules are structured into various packages, and only dedicated packages should be exported to other modules, the visibilty modifiers do not fit at all. All public classes can be imported to other modules.<br>
+If modules are structured into various packages, and only dedicated packages should be exported to other modules, the visibility modifiers do not fit at all. All public classes can be imported to other modules.<br>
 With JDK 9 JPMS was introduced to solve this issue. Using JPMS in a project is not an easy task and sometimes even not possible due to runtime restrictions (see [jpms-negative-benefits][jpms-negative-benefits]).
 This is where [Import Control][import-control-readme] comes to rescue. It fully supports the need for import control between modules but with no runtime impact nor restrictions.
 Packages of modules that shall be exported to other modules can be annotated with ```@ExportPackage```.
@@ -41,6 +41,8 @@ In Maven just add the following dependency to your pom.xml:
       </dependency>
 ```
 
+[gitpod-shield]: https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod
+[gitpod]: https://gitpod.io/from-referrer/
 [maven-central-shield]: https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api/badge.svg
 [maven-central]: https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg

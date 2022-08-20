@@ -2,8 +2,8 @@ package com.github.frimtec.libraries.importcontrol.demo.moduleb.subpackage;
 
 import com.github.frimtec.libraries.importcontrol.demo.modulea.ClassA; // import ok, exported
 import com.github.frimtec.libraries.importcontrol.demo.modulea.internal.InternalClassA; // import nok, not same module
-import com.github.frimtec.libraries.importcontrol.demo.moduleb.NormalImport;
 
+@SuppressWarnings({"FieldCanBeLocal", "unused"})
 public class InternalClassB {
     private final InternalClassA internal1ClassA;
     private final ClassA classA;

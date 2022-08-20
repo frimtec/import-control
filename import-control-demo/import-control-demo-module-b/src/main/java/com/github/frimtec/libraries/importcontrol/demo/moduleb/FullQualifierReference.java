@@ -1,5 +1,6 @@
 package com.github.frimtec.libraries.importcontrol.demo.moduleb;
 
+@SuppressWarnings({"FieldCanBeLocal", "unused"})
 public class FullQualifierReference {
 
     // import ok, exported
