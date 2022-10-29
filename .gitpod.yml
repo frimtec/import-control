@@ -6,5 +6,3 @@ jetbrains:
   intellij:
     plugins:
       - com.github.frimtec.idea-import-control-plugin
-    prebuilds:
-      version: both
