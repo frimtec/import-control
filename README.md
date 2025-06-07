@@ -43,8 +43,8 @@ In Maven just add the following dependency to your pom.xml:
 
 [gitpod-shield]: https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod
 [gitpod]: https://gitpod.io/from-referrer/
-[maven-central-shield]: https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api/badge.svg
-[maven-central]: https://maven-badges.herokuapp.com/maven-central/com.github.frimtec/import-control-api
+[maven-central-shield]: https://img.shields.io/maven-central/v/com.github.frimtec/import-control-api
+[maven-central]: https://central.sonatype.com/artifact/com.github.frimtec/import-control-api
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [license-shield]: https://img.shields.io/github/license/frimtec/import-control.svg
 [license]: https://opensource.org/licenses/Apache-2.0
