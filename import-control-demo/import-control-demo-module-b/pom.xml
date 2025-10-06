@@ -8,6 +8,7 @@
         <version>0-SNAPSHOT</version>
     </parent>
 
+    <name>import-control-demo-module-b</name>
     <artifactId>import-control-demo-module-b</artifactId>
     <dependencies>
         <dependency>
