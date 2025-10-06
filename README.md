@@ -1,4 +1,4 @@
-# Import Control [![setup automated][gitpod-shield]][gitpod]
+# Import Control
 [![Maven Central][maven-central-shield]][maven-central]
 [![License][license-shield]][license]
 
@@ -41,8 +41,6 @@ In Maven just add the following dependency to your pom.xml:
       </dependency>
 ```
 
-[gitpod-shield]: https://img.shields.io/badge/Gitpod-ready_to_code-orange?logo=gitpod
-[gitpod]: https://gitpod.io/from-referrer/
 [maven-central-shield]: https://img.shields.io/maven-central/v/com.github.frimtec/import-control-api
 [maven-central]: https://central.sonatype.com/artifact/com.github.frimtec/import-control-api
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
