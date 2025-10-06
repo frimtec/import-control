@@ -37,7 +37,7 @@ In Maven just add the following dependency to your pom.xml:
       <dependency>
         <groupId>com.github.frimtec</groupId>
         <artifactId>import-control-api</artifactId>
-        <version>1.2.0</version>
+        <version>1.1.2</version>
       </dependency>
 ```
 
